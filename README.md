@@ -1,2 +1,3 @@
 # Tableau-Cars-Dashboard
-An interactive Tableau dashboard analyzing car sales performance across regions, body styles, and brands. Includes key KPIs such as YTD Total Sales, Cars Sold, and Average Price. Features dynamic filtering by date range, region, engine type, and gender, along with sales trends and high-price brand analysis.
+This project presents an interactive Tableau dashboard that analyzes car sales performance across different regions, body styles, and brands for the period from January 2020 to December 2021.
+The dashboard is designed to help stakeholders quickly understand key business trends and make informed decisions.
