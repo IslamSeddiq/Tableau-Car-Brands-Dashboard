@@ -1,7 +1,5 @@
 # Hi there, I'm Islam Seddiq!👋
 
-([https://i.supaimg.com/19279434-3eeb-4fcb-b0e7-db6d8843613b.jpg])
-
 ## About Me 🚀
 
 I'm a passionate data analyst with experience in SQL, Python, Excel, Power BI or Tableau. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
@@ -19,7 +17,7 @@ I'm a passionate data analyst with experience in SQL, Python, Excel, Power BI or
 
 ### [Car-Brands-Dashboard]
 
-![Project Screenshot]((https://github.com/IslamSeddiq/Tableau-Car-Brands-Dashboard/blob/main/ScreenShot.png?raw=true)])
+![Project Screenshot]([https://github.com/IslamSeddiq/Tableau-Car-Brands-Dashboard/blob/main/ScreenShot.png?raw=true])
 
 [Car-Brands-Dashboard] This project presents an interactive Tableau dashboard that analyzes car sales performance across different regions, body styles, and brands for the period from January 2020 to December 2021.
 The dashboard is designed to help stakeholders quickly understand key business trends and make informed decisions..
