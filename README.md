@@ -1,9 +1,6 @@
-![image](https://github.com/user-attachments/assets/035f21a2-0f70-47bc-9b87-b978d1e129b9)# Tableau-Cars-Dashboard
-This project presents an interactive Tableau dashboard that analyzes car sales performance across different regions, body styles, and brands for the period from January 2020 to December 2021.
-The dashboard is designed to help stakeholders quickly understand key business trends and make informed decisions.
 # Hi there, I'm Islam Seddiq!👋
 
-![Banner Image](your_banner_image_url_here)
+([https://i.supaimg.com/19279434-3eeb-4fcb-b0e7-db6d8843613b.jpg])
 
 ## About Me 🚀
 
@@ -16,7 +13,7 @@ I'm a passionate data analyst with experience in SQL, Python, Excel, Power BI or
 
 ## My Skills 🧠
 
-![Tableau](https://github.com/IslamSeddiq/Tableau-Car-Brands-Dashboard/blob/main/ScreenShot.png?raw=true)]
+![Tableau]
 
 ## Featured Projects 💻
 
@@ -29,8 +26,8 @@ The dashboard is designed to help stakeholders quickly understand key business t
 
 
 ## Get in Touch 📬
-
-- ([https://www.canva.com/design/DAGeDwn60FY/xY0llUzQWp5yekWU_03X4w/edit?utm_content=DAGeDwn60FY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton])
+- [20 1201991890]
 - ([(https://www.linkedin.com/in/islamseddiq/])
+- ([https://www.canva.com/design/DAGeDwn60FY/xY0llUzQWp5yekWU_03X4w/edit?utm_content=DAGeDwn60FY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton])
 
 
