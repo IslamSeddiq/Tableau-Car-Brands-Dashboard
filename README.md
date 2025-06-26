@@ -24,8 +24,6 @@ The dashboard is designed to help stakeholders quickly understand key business t
 
 
 ## Get in Touch 📬
-- (20 1201991890)
+- **[Phone Number]**(20 1201991890)
 - **[Personal Website / Blog]**(https://www.canva.com/design/DAGeDwn60FY/xY0llUzQWp5yekWU_03X4w/edit?utm_content=DAGeDwn60FY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
-- (https://www.canva.com/design/DAGeDwn60FY/xY0llUzQWp5yekWU_03X4w/edit?utm_content=DAGeDwn60FY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
-
-
+- **[LinkedIn]**(https://www.linkedin.com/in/islamseddiq/)
