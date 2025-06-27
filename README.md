@@ -15,7 +15,7 @@ I'm a passionate data analyst with experience in SQL, Python, Excel, Power BI or
 
 ![Statistics]
 
-## Featured Project 💻
+## About Project 💻
 
 ### [Car-Brands-Dashboard](https://drive.google.com/drive/folders/1qx9PTwFaLhGUc_G4EppaFmuhOOXQWOAj?usp=drive_link)
 
